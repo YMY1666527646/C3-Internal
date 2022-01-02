@@ -1,2 +1,1 @@
-# C3-Internal
-Fortnite Internal For CH3
+Big paste, has team swap chams...everything works.
