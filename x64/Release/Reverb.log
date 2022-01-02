@@ -1,0 +1,157 @@
+﻿  Assembling retspoof.asm...
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  hooks.cpp
+C:\Users\Micca\Desktop\Internal\hooks.cpp(345,98): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\hooks.cpp(395,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\hooks.cpp(396,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\hooks.cpp(421,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\hooks.cpp(421,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\hooks.cpp(424,16): warning C4552: '-': result of expression not used
+C:\Users\Micca\Desktop\Internal\hooks.cpp(425,16): warning C4552: '-': result of expression not used
+  dllmain.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  offsets.cpp
+  RenderCanvas.cpp
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(336,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(336,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(337,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(337,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(489,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(514,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(514,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(514,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(515,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(515,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(515,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(516,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(516,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(516,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(517,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(517,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(517,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(518,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(518,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(522,151): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(522,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(522,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(522,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(522,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(523,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(523,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(523,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(523,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(523,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(527,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(527,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(527,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(527,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(527,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(531,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(532,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(535,159): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(535,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(535,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(535,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(536,159): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(536,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(536,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(536,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(537,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(537,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(537,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(537,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(538,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(538,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(538,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(538,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(539,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(539,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(539,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(539,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(540,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(540,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(540,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(540,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(541,175): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(541,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(541,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(541,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(542,175): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(542,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(542,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(542,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(545,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(545,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(545,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(545,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(546,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(546,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(546,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(546,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(547,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(547,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(547,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(547,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(548,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(548,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(548,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(548,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(549,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(549,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(549,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(549,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(550,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(550,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(550,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(550,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(551,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(551,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(551,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(551,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(552,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(552,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(552,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(552,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(622,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(622,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(622,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(622,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(623,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(623,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(623,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(623,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1534,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1538,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1538,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1538,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1538,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1538,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1542,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1542,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1542,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1542,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1542,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1547,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1547,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1547,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1547,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1547,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1552,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1552,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1552,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1552,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\RenderCanvas.cpp(1552,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  settings.cpp
+C:\Users\Micca\Desktop\Internal\settings.cpp(29,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micca\Desktop\Internal\settings.cpp(30,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  util.cpp
+C:\Users\Micca\Desktop\Internal\util.cpp(177,11): warning C4101: 'result': unreferenced local variable
+     Creating library C:\Users\Micca\Desktop\Internal\x64\Release\test.lib and object C:\Users\Micca\Desktop\Internal\x64\Release\test.exp
+  Previous IPDB not found, fall back to full compilation.
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 3250 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Reverb.vcxproj -> C:\Users\Micca\Desktop\Internal\x64\Release\test.dll

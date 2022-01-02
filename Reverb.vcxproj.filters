@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_draw.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_dx11.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="offsets.cpp">
+      <Filter>Offsets &amp; SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks.cpp">
+      <Filter>Hooking</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderCanvas.cpp">
+      <Filter>Menu &amp; Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="settings.cpp">
+      <Filter>Menu &amp; Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="imgui\imconfig.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_dx11.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_internal.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_xorstr.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="offsets.h">
+      <Filter>Offsets &amp; SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks.h">
+      <Filter>Hooking</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.h">
+      <Filter>Menu &amp; Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_rect_pack.h">
+      <Filter>Protection</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_textedit.h">
+      <Filter>Protection</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_truetype.h">
+      <Filter>Protection</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Protection</Filter>
+    </ClInclude>
+    <ClInclude Include="xorstr.h">
+      <Filter>Protection</Filter>
+    </ClInclude>
+    <ClInclude Include="detours.h">
+      <Filter>Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="settings.h">
+      <Filter>Menu &amp; Settings</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Offsets &amp; SDK">
+      <UniqueIdentifier>{fdbacd24-eb50-4478-b5c8-d3b0477edf91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu &amp; Settings">
+      <UniqueIdentifier>{01c9dd9f-b270-4322-9d28-98c9e900d396}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Defines">
+      <UniqueIdentifier>{97f9c15b-af11-43f2-889a-d07a89822513}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hooking">
+      <UniqueIdentifier>{95368bc5-1a44-4cb8-8da7-4863e8d34d19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc">
+      <UniqueIdentifier>{d6925f02-05ce-4787-ad41-eca0741ebcde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protection">
+      <UniqueIdentifier>{234e578b-b1bf-4cff-94e0-2fc5879bd9d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Render">
+      <UniqueIdentifier>{917c4d74-e07b-4376-81a8-d29d48be5f03}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="detours.lib">
+      <Filter>Defines</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="retspoof.asm">
+      <Filter>Defines</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>
